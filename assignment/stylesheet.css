@@ -1,0 +1,20 @@
+html {
+  background-image: url(record.png);
+  background-repeat: repeat;
+  /* this repeated on its own */
+}
+
+.headerClass {
+  background-color: #5d0076;
+  color: #c900ff;
+  text-align: center;
+}
+
+.mainClass {
+  background-color: #D1D0D0;
+  padding: 1em;
+}
+
+body {
+  margin: 0;
+}
